@@ -117,6 +117,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |
+      and let's get chatting about how I can help ease your tech stress!
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
