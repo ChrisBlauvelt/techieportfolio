@@ -13,11 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I'm glad you're here. It's taken me a while to get here, but I'm very
+      happy to be able to offer my services at a point where I can
+      wholeheartedly vouch for them, knowing that  I can improve your security
+      stature and technological resiliancy.
+
+
+
+
+      Thanks for stopping by!
+
     media:
       type: ImageBlock
       url: /images/logo_FINAL.svg
