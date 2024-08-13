@@ -151,8 +151,6 @@ sections:
         label: Hardware Installations
       - type: Label
         label: Pancakes
-      - type: Label
-        label: C++
   - type: DividerSection
     styles:
       self:
