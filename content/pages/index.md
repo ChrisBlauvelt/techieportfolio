@@ -47,6 +47,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      From homes to small businesses, The Techie Neighbor can assist you with
+      all aspects of networking, security, hardware and software
+      troubleshooting, and more!
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
