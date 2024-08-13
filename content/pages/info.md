@@ -142,7 +142,7 @@ sections:
       - type: Label
         label: Azure & Entra ID
       - type: Label
-        label: React
+        label: Linux
       - type: Label
         label: Microsoft Office
       - type: Label
