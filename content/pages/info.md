@@ -148,7 +148,7 @@ sections:
       - type: Label
         label: Networking
       - type: Label
-        label: Netlify
+        label: Hardware Installations
       - type: Label
         label: Pancakes
       - type: Label
