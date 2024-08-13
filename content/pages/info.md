@@ -150,7 +150,7 @@ sections:
       - type: Label
         label: Hardware Installations
       - type: Label
-        label: Pancakes
+        label: Application Hosting and Integration
   - type: DividerSection
     styles:
       self:
