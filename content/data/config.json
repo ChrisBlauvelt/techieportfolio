@@ -27,7 +27,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Nextdoor",
                 "label": "Nextdoor",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
