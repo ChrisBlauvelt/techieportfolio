@@ -207,18 +207,17 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2012-2016**
 
-          * ba computer sciense at a semi fancy school
+          *   ba philosophy w/ minor in english literature
 
-          **2014**
+          **2024**
 
-          * react certificate somewhere
+          *   Microsoft 365 Certified: Fundamentals
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
