@@ -36,7 +36,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/christopherblauvelt",
+                "url": "https://github.com/ChrisBlauvelt",
                 "icon": "github"
             }
         ],
@@ -70,7 +70,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/christopherblauvelt",
+                "url": "https://github.com/ChrisBlauvelt",
                 "altText": "my github"
             }
         ],
