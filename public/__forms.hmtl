@@ -1,0 +1,17 @@
+<form name="form" method="POST" data-netlify="true">
+  <p>
+    <label>First Name: <input type="text" name="firstName" /></label>
+  </p>
+  <p>
+    <label>Last Name: <input type="text" name="lastName" /></label>
+  </p>
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+ <p>
+    <label>Address: <input type="text" name="Address" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
