@@ -57,7 +57,7 @@ sections:
     title: Drop me a line
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: form
       fields:
         - name: firstName
           label: First Name
@@ -119,4 +119,5 @@ sections:
         textAlign: left
     text: |
       and let's get chatting about how I can help ease your tech stress!
+metaTags: []
 ---
