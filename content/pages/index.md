@@ -119,8 +119,5 @@ sections:
         textAlign: left
     text: |
       and let's get chatting about how I can help ease your tech stress!
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 ---
