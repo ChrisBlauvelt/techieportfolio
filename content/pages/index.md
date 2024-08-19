@@ -57,7 +57,7 @@ sections:
     title: Drop me a line
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: form
       fields:
         - name: firstName
           label: First Name
