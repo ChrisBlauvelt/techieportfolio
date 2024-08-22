@@ -51,7 +51,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/tnLogo.png
-      altText: altText of the image
+      altText: The Techie Neighbor
       caption: Caption of the image
       elementId: ''
   - type: DividerSection
