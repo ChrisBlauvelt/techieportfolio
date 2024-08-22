@@ -4,7 +4,7 @@ title: Work In Progress
 colors: colors-a
 date: '2024-02-20'
 client: 'The Union Restaurant, LLC.'
-description: ''
+description: Office Tech Refresh and Re-Cabling
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
