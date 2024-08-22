@@ -52,7 +52,7 @@ sections:
       type: ImageBlock
       url: /images/tnLogo.png
       altText: The Techie Neighbor
-      caption: Caption of the image
+      caption: TechieLogo
       elementId: ''
   - type: DividerSection
     styles:
