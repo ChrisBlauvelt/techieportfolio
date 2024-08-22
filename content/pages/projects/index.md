@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: 'Projects - This is a work in progress, check back soon!'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
