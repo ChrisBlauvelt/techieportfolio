@@ -24,10 +24,6 @@ sections:
 
       Thanks for stopping by!
 
-    media:
-      type: ImageBlock
-      url: /images/logo_FINAL.svg
-      altText: Hero image
     styles:
       self:
         height: auto
@@ -52,6 +48,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    media:
+      type: ImageBlock
+      url: /images/tnLogo.png
+      altText: The Techie Neighbor
+      caption: TechieLogo
+      elementId: ''
   - type: DividerSection
     styles:
       self:
@@ -264,70 +266,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---

@@ -44,6 +44,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/tnLogo.png",
+            "altText": "The Techie Neighbor",
+            "caption": "TechieLogo",
+            "elementId": ""
         }
     },
     "footer": {
