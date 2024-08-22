@@ -24,10 +24,6 @@ sections:
 
       Thanks for stopping by!
 
-    media:
-      type: ImageBlock
-      url: /images/logo_FINAL.svg
-      altText: Hero image
     styles:
       self:
         height: auto
