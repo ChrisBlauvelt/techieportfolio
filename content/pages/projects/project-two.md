@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Work In Progress
 colors: colors-a
-date: '0202-02-20'
+date: '2024-02-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
