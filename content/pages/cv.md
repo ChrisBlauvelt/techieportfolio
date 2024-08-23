@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Resume / CV
+title: Resume
 sections:
   - type: TextSection
     colors: colors-f
