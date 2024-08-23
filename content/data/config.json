@@ -15,8 +15,8 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Resume",
+                "url": "/cv"
             },
             {
                 "type": "Link",
