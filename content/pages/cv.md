@@ -7,27 +7,33 @@ sections:
     variant: variant-a
     title: 'My Experience '
     subtitle: 'A curriculum vitae, if you prefer'
-    text: >
+    text: >+
       ## **Deployment & Project Engineer - 360 Smart Networks**
 
 
       ### **April 2022 - August 2024**
 
 
-      I greatly appreciate the opportunity that I was given to hone my
-      background in technology that was rooted in a foundational love for the
-      understating of interconnected systems. While at 360, I gained a massive
-      amount of experience with different manufactures of hardware and software,
-      operating on either desktop to server operating systems, to networking!
+      I am grateful for the opportunity to have developed my technical expertise
+      at 360, where I built upon my foundation in understanding interconnected
+      systems. During my tenure, I gained extensive hands-on experience with a
+      wide range of technologies from various manufacturers, including hardware
+      and software solutions that operate on desktop and server operating
+      systems, as well as networking infrastructure.
 
 
-      Additionally, I was able to gain experience with nearly all aspects of
-      Microsoft Office 365 administration: from Azure SSO Integrations, to
-      Microsoft Entra ID user management, and managing InTune policies.
-      Additionally, I gained additional exposure to virtual firewalls, CRM / ERP
-      software, software tailored to law firms, AutoCAD / SolidWorks / BlueBeam
-      and other architectural programs and their installation and
-      administration.
+      I also had the opportunity to dive deep into Microsoft Office 365
+      administration, developing expertise in areas such as Azure Single Sign-On
+      (SSO) integrations, Microsoft Entra ID user management, and InTune policy
+      management. Additionally, I gained exposure to other key technologies,
+      including virtual firewalls, CRM/ERP software, and specialized solutions
+      tailored to law firms, such as AutoCAD, SolidWorks, BlueBeam, and other
+      architectural programs. This broad range of experience has equipped me
+      with a unique understanding of how different systems interact and can be
+      optimized for maximum efficiency.
+
+
+
     elementId: ''
     styles:
       self:
