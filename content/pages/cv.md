@@ -8,10 +8,10 @@ sections:
     title: 'My Experience '
     subtitle: 'A curriculum vitae, if you prefer'
     text: >
-      # **Deployment & Project Engineer - 360 Smart Networks**
+      ## **Deployment & Project Engineer - 360 Smart Networks**
 
 
-      **April 2022 - August 2024**
+      ### **April 2022 - August 2024**
 
 
       I greatly appreciate the opportunity that I was given to hone my
