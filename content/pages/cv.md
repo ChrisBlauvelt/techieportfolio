@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'My Experience '
-    subtitle: 'A '
+    subtitle: 'A curriculum vitae, if you prefer'
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
