@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Techie.svg
   altText: TN Blog Post
+  caption: The Techie Neighbor
 media:
   url: /images/post-2.jpg
   altText: altText of the image
