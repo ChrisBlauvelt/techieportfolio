@@ -34,6 +34,6 @@ metaDescription: Techie Neighbor Blog
 socialImage: /images/Techie.svg
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'twitter:title'
     content: ''
 ---
