@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/Techie.svg
-  altText: Post thumbnail image
+  altText: TN Blog Post
 media:
   url: /images/post-2.jpg
   altText: altText of the image
