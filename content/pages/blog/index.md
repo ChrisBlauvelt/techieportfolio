@@ -26,6 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: The Techie Blog
 styles:
   title:
     textAlign: left
