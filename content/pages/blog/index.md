@@ -31,4 +31,5 @@ styles:
     textAlign: left
 metaTitle: Techie Neighbor Blog
 metaDescription: Techie Neighbor Blog
+socialImage: /images/Techie.svg
 ---
