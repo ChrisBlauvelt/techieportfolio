@@ -1,10 +1,13 @@
 {
     "type": "Person",
     "firstName": "Chris",
-    "lastName": "Soto",
+    "lastName": "Blauvelt",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/bridalparty2-13.jpg",
+        "altText": "Chris + Mary Blauvelt",
+        "caption": "Best Day of My Life"
+    },
+    "role": "Owner",
+    "bio": "Accomplished and driven IT Professional with a history of delivering exceptional results while focusing on customer satisfaction.\n"
 }
