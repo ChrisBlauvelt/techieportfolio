@@ -6,5 +6,6 @@
         "type": "ImageBlock",
         "url": "/images/about.jpg",
         "altText": "Doris Soto photo"
-    }
+    },
+    "role": "Owner"
 }
