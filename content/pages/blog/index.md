@@ -27,6 +27,7 @@ postFeed:
         - pr-4
         - pb-12
   title: The Techie Blog
+  subtitle: Techie Blog
 styles:
   title:
     textAlign: left
