@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 'Blog '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -16,8 +16,8 @@ postFeed:
   showAuthor: false
   showExcerpt: true
   showFeaturedImage: true
-  showReadMoreLink: true
-  variant: variant-d
+  showReadMoreLink: false
+  variant: variant-a
   styles:
     self:
       width: narrow
@@ -26,7 +26,16 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: The Techie Blog
+  subtitle: For your reading pleasure
 styles:
   title:
     textAlign: left
+metaTitle: Techie Neighbor Blog
+metaDescription: Techie Neighbor Blog
+socialImage: /images/Techie.svg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: 'Suwanee Tech Computer IT '
 ---
