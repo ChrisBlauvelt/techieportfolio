@@ -35,5 +35,5 @@ socialImage: /images/Techie.svg
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: 'Suwanee Tech Computer IT '
 ---
