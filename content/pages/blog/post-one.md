@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'Transparency in Tech: Honesty is Your Firewall'
 colors: colors-a
-date: '2021-06-28'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
