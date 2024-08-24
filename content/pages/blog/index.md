@@ -30,4 +30,5 @@ styles:
   title:
     textAlign: left
 metaTitle: Techie Neighbor Blog
+metaDescription: Techie Neighbor Blog
 ---
