@@ -103,19 +103,34 @@ bottomSections:
       text:
         textAlign: left
 ---
+## A Brief Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+> "The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it" - Linus Torvalds
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+My journey into the world of technology begins  (and even continues in it's current state) thanks, largely, to Linus Torvalds himself, as his and Richard Stallman's unique melange of philosophy and computing struck a chord somewhere deep within me at age 13 when flashing a Linksys WRT54GL router with DD-WRT in order to create a Wi-Fi repeater, before such a technology was sold in a mainstream (and affordable) consumer package. 
 
-## About Coding
+## What Does That Have To Do With Honesty?
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+More than I ever could have imagined.  When I entered the IT field professionally, I quickly learned that advocating for, or mentioning "Linux", "Open-Source", or "FOSS" were nearly akin to calling yourself a leper. 
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-## Productivity
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+This was in a direct contradiction, in my mind, to what made me an asset, and why I was hired.  I have maintained a homelab for quite some time, and with the advent of SBC (single-board-computing, like the RaspberryPi), I was able to take my love of Linux and Tinkering and create affordable and small home servers, from a Pi-Hole (DNS Sinkhole for Network-Wide AdBlocking), to clustering of resources, as well as a deep knowledge of containerization (both Docker and LXC) being strengths that I boasted on my application to any tech job that I could apply for!
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Throughout my days, I continued to hear people mis-characterize the true philosophy behind FOSS: Free and Open Source Software. Free as in freedom, the freedom to do what you wish with it. 
+
+
+
+The fear to use a tool that one does not understand can often overcome the urge to do the right thing, and this is something that I do not intend to shy away from in my future endeavors. 
+
+
+
+There is an enormous space for Open Source Software to help secure your home or business, without the added cost (both materially and in the form of your data) going straight to the giant corporations which already run so much of our lives.
+
+
+
+I look forward to the opportunity to explain these benefits to you and your team, and I hope that you'll stay tuned for future, and hopefully lengthier, blog posts!
+
+
+
+Chris Blauvelt - The Techie Neighbor 
