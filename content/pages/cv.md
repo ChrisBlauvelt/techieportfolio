@@ -146,13 +146,18 @@ sections:
     variant: variant-b
     title: Credentials + Certifications
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      **2012-2016 - Appalachian State University**
+
+      *   BA Philosophy 
+          *   Minor in English Literature
+
+          *   (no computers, crazy right?!)
+
+      **2024**
+
+      *   Microsoft 365 Certified: Fundamentals
+
     elementId: ''
     styles:
       self:
