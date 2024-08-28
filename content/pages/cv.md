@@ -99,7 +99,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: The Specifics
+    title: Previous Experience
     subtitle: Let's Dive Deep
     text: |
       **Current**
