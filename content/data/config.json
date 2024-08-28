@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Techie.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
