@@ -13,17 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## I'm glad you're here. It's taken me a while to get here, but I'm very
-      happy to be able to offer my services at a point where I can
-      wholeheartedly vouch for them, knowing that  I can improve your security
-      stature and technological resiliancy.
+    text: >
+      ## I'm glad you're here. 
 
 
+      ### It's taken me a while to get here, but I'm very happy to be able to
+      offer my services at a point where I can wholeheartedly vouch for them,
+      knowing that  I can improve your security stature and technological
+      resiliency.
 
 
       Thanks for stopping by!
-
     styles:
       self:
         height: auto
