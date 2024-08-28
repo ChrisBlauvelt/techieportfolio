@@ -179,8 +179,12 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+          I've had the pleasure of working with Chris at an MSP during a large
+          growth period. His commitment to the MSP's clients and his own work
+          ethic was commendable. His IT and management skills were exceptional
+          and he was not only knowledgeable but he was the SME for multiple
+          software and hardware products. He never failed to deliver on anything
+          asked of him.
         name: John Doe
         title: CEO at Parks
         elementId: ''
