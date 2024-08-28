@@ -199,7 +199,7 @@ sections:
           start to finish, the entire experience was seamless and professional.
           He was incredibly knowledgeable and attentive to my needs"
         name: Peggy Streich
-        title: Product Marketing Manager at Acme
+        title: Office Administrator for Sedgewick Restaurant Group
         image:
           type: ImageBlock
           url: /images/person-3.jpg
