@@ -99,7 +99,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: Previous Experience
+    title: Previous Work Experience
     subtitle: Let's Dive Deep
     text: >
       **2022-2024**
