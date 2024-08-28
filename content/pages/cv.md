@@ -71,7 +71,7 @@ sections:
         label: Proxmox
         url: ''
       - type: Label
-        label: Pancakes
+        label: Bash
         url: ''
       - type: Label
         label: C++
