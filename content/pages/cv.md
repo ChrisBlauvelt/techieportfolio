@@ -77,7 +77,7 @@ sections:
         label: 'Network Architecture '
         url: ''
       - type: Label
-        label: 'Audio/Visual '
+        label: Audio/Visual & Networking Installations
         url: ''
     colors: colors-f
     elementId: ''
