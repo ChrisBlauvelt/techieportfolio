@@ -200,12 +200,6 @@ sections:
           He was incredibly knowledgeable and attentive to my needs"
         name: Peggy Streich
         title: Office Administrator for Sedgewick Restaurant Group
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
