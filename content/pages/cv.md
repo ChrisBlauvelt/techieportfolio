@@ -65,7 +65,7 @@ sections:
         label: Microsoft Azure
         url: ''
       - type: Label
-        label: Next.js
+        label: 'VMWare ESXi '
         url: ''
       - type: Label
         label: Netlify
