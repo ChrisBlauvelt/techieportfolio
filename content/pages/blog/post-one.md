@@ -46,6 +46,7 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
+metaDescription: Suwanee IT Tech Support Business
 ---
 ## A Brief Background
 
