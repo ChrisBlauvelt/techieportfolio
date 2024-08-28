@@ -31,11 +31,14 @@ postFeed:
 styles:
   title:
     textAlign: left
-metaTitle: Techie Neighbor Blog
-metaDescription: Techie Neighbor Blog
+metaTitle: ''
+metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 socialImage: /images/Techie.svg
 metaTags:
   - type: MetaTag
     property: 'og:title'
     content: 'Suwanee Tech Computer IT '
+  - type: MetaTag
+    property: ''
+    content: ''
 ---
