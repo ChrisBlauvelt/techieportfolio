@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/ChrisBlauvelt",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://x.com/techieneighba",
+                "icon": "twitter",
+                "elementId": ""
             }
         ],
         "styles": {
