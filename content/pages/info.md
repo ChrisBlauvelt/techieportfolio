@@ -71,7 +71,7 @@ sections:
     subtitle: 'I''ve worked with these fantastic partners:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/union+logo+colors.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
