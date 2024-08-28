@@ -46,7 +46,7 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
-metaDescription: Suwanee IT Tech Support Business
+metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 socialImage: /images/Techie.svg
 ---
 ## A Brief Background
