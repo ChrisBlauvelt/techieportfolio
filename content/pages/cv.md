@@ -101,13 +101,23 @@ sections:
     variant: variant-b
     title: The Specifics
     subtitle: Let's Dive Deep
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      **Current**
+
+      *   Project Engineer at a Metro-Atlanta MSP
+
+      **2010-2021**
+
+      *   every job under the sun
+
+
+      **2012-2016**
+
+      *   ba philosophy w/ minor in english literature
+
+      **2024**
+
+      *   Microsoft 365 Certified: Fundamentals
     elementId: ''
     styles:
       self:
