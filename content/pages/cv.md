@@ -62,7 +62,7 @@ sections:
         label: Microsoft Entra ID
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Microsoft Azure
         url: ''
       - type: Label
         label: Next.js
