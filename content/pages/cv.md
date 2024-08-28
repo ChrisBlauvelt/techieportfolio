@@ -59,7 +59,7 @@ sections:
         label: Linux Administration
         url: ''
       - type: Label
-        label: React
+        label: Microsoft Entra ID
         url: ''
       - type: Label
         label: Microsoft Office
