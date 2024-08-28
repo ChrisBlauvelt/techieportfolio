@@ -74,7 +74,7 @@ sections:
         label: Bash
         url: ''
       - type: Label
-        label: C++
+        label: 'Network Architecture '
         url: ''
       - type: Label
         label: Swift
