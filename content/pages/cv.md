@@ -175,8 +175,56 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          I've had the pleasure of working with Chris at an MSP during a large
+          growth period. His commitment to the MSP's clients and his own work
+          ethic was commendable. His IT and management skills were exceptional
+          and he was not only knowledgeable but he was the SME for multiple
+          software and hardware products. He never failed to deliver on anything
+          asked of him.
+        name: Joe Pritchard
+        title: 'Senior Support Engineer, 360 Smart Networks'
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          "\[...]I couldn't be more satisfied with the service he provided. From
+          start to finish, the entire experience was seamless and professional.
+          He was incredibly knowledgeable and attentive to my needs"
+        name: Peggy Streich
+        title: Office Administrator for Sedgewick Restaurant Group
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 addTitleSuffix: true
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
@@ -185,4 +233,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
+socialImage: /images/Techie.svg
 ---
