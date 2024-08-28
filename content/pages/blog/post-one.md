@@ -4,7 +4,10 @@ title: 'Transparency in Tech: Honesty is Your Firewall'
 colors: colors-a
 date: '2024-08-24'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  The fear to use a tool that one does not understand can often overcome the
+  urge to do the right thing, and this is something that I do not intend to shy
+  away from in my future endeavors. 
 featuredImage:
   type: ImageBlock
   url: /images/Techie.svg
