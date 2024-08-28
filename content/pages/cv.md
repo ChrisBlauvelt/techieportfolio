@@ -57,7 +57,7 @@ sections:
     items:
       - type: Label
         label: Linux Administration
-        url: ''
+        url: 'https://kernel.org'
       - type: Label
         label: Microsoft Entra ID
         url: >-
