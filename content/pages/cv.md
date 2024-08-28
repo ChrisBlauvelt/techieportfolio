@@ -70,7 +70,7 @@ sections:
         url: 'https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx'
       - type: Label
         label: Containerization/Virtualization
-        url: ''
+        url: 'https://www.redswitches.com/blog/lxc-vs-docker/'
       - type: Label
         label: Bash
         url: ''
