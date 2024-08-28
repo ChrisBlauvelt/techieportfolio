@@ -101,23 +101,29 @@ sections:
     variant: variant-b
     title: Previous Experience
     subtitle: Let's Dive Deep
-    text: |
-      **Current**
-
-      *   Project Engineer at a Metro-Atlanta MSP
-
-      **2010-2021**
-
-      *   every job under the sun
+    text: >
+      **2022-2024**
 
 
-      **2012-2016**
+      *   Project Engineer at 360 Smart Networks, a  Managed IT Service Provider
+      in Roswell, GA.
 
-      *   ba philosophy w/ minor in english literature
 
-      **2024**
+      **2017-2022**
 
-      *   Microsoft 365 Certified: Fundamentals
+
+      *   Brand Ambassador for Boar's Head at Lorenzo Provisions, Inc. 
+
+
+      **2010-2017**
+
+
+      *   Restaurant experience as an Expo, Line Cook, Server, Trainer, etc. at
+      The Union Restaurant, Pure Taquiera, The El Felix (Currently named
+      Superica in Avalon), along with others throughout college in Boone, NC. 
+
+
+      ****
     elementId: ''
     styles:
       self:
