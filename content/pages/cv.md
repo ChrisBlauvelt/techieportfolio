@@ -68,7 +68,7 @@ sections:
         label: 'VMware ESXi '
         url: ''
       - type: Label
-        label: Proxmox
+        label: Containerization/Virtualization
         url: ''
       - type: Label
         label: Bash
