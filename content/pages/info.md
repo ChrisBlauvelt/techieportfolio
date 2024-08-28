@@ -125,22 +125,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: Azure & Entra ID
-      - type: Label
-        label: Linux
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Networking
-      - type: Label
-        label: Hardware Installations
-      - type: Label
-        label: Application Hosting and Integration
   - type: DividerSection
     styles:
       self:
