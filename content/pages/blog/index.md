@@ -31,7 +31,7 @@ postFeed:
 styles:
   title:
     textAlign: left
-metaTitle: Techie Neighbor Blog
+metaTitle: ''
 metaDescription: Techie Neighbor Blog
 socialImage: /images/Techie.svg
 metaTags:
