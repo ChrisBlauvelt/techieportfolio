@@ -38,4 +38,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: 'Suwanee Tech Computer IT '
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
