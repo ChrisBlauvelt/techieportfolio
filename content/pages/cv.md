@@ -76,7 +76,7 @@ sections:
         url: 'https://www.gnu.org/software/bash/'
       - type: Label
         label: 'Network Architecture '
-        url: ''
+        url: 'https://youtu.be/dQw4w9WgXcQ?si=8ZA6uDvlPwhKVD0-'
       - type: Label
         label: Audio/Visual & Networking Installations
         url: ''
