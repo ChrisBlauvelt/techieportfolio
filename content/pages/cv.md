@@ -51,6 +51,130 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: LabelsSection
+    title: Skills
+    subtitle: 'I''m very confident in these:'
+    items:
+      - type: Label
+        label: Linux Administration
+        url: 'https://kernel.org'
+      - type: Label
+        label: Microsoft Entra ID
+        url: >-
+          https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id
+      - type: Label
+        label: Microsoft Azure
+        url: 'https://azure.microsoft.com/en-us'
+      - type: Label
+        label: 'VMware ESXi '
+        url: 'https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx'
+      - type: Label
+        label: Containerization/Virtualization
+        url: ''
+      - type: Label
+        label: Bash
+        url: ''
+      - type: Label
+        label: 'Network Architecture '
+        url: ''
+      - type: Label
+        label: Audio/Visual & Networking Installations
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
+    title: Credentials + Certifications
+    subtitle: ''
+    text: |+
+      **2012-2016 - Appalachian State University**
+
+      *   BA Philosophy 
+          *   Minor in English Literature
+
+          *   (no computers, crazy right?!)
+
+      **2024**
+
+      *   Microsoft 365 Certified: Fundamentals
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
+    title: Previous Work Experience
+    subtitle: Let's Dive Deep
+    text: >
+      **2022-2024**
+
+
+      *   Project Engineer at 360 Smart Networks, a  Managed IT Service Provider
+      in Roswell, GA.
+
+
+      **2017-2022**
+
+
+      *   Brand Ambassador for Boar's Head at Lorenzo Provisions, Inc. 
+
+
+      **2010-2017**
+
+
+      *   Restaurant experience as an Expo, Line Cook, Server, Trainer, etc. at
+      The Union Restaurant, Pure Taquiera, The El Felix (Currently named
+      Superica in Avalon), along with others throughout college in Boone, NC. 
+
+
+      ****
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
