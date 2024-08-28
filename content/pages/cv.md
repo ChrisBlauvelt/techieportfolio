@@ -66,7 +66,7 @@ sections:
         url: ''
       - type: Label
         label: 'VMware ESXi '
-        url: ''
+        url: 'https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx'
       - type: Label
         label: Containerization/Virtualization
         url: ''
