@@ -195,8 +195,9 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          "\[...]I couldn't be more satisfied with the service he provided. From
+          start to finish, the entire experience was seamless and professional.
+          He was incredibly knowledgeable and attentive to my needs"
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
