@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Techie.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "TechieNeighbor",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/ChrisBlauvelt",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://x.com/techieneighba",
+                "icon": "twitter",
+                "elementId": ""
             }
         ],
         "styles": {
