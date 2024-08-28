@@ -198,7 +198,7 @@ sections:
           "\[...]I couldn't be more satisfied with the service he provided. From
           start to finish, the entire experience was seamless and professional.
           He was incredibly knowledgeable and attentive to my needs"
-        name: Johnna Doe
+        name: Peggy Streich
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
