@@ -68,7 +68,7 @@ sections:
         label: 'VMware ESXi '
         url: ''
       - type: Label
-        label: Netlify
+        label: Proxmox
         url: ''
       - type: Label
         label: Pancakes
