@@ -53,7 +53,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: 'I''m very confident in these:'
     items:
       - type: Label
         label: Linux Administration
