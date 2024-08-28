@@ -47,6 +47,7 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 metaDescription: Suwanee IT Tech Support Business
+socialImage: /images/Techie.svg
 ---
 ## A Brief Background
 
