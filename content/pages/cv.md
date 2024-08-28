@@ -100,7 +100,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: The Specifics
-    subtitle: The section subtitle
+    subtitle: Let's Dive Deep
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
