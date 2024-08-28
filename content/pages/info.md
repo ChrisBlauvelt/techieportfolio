@@ -113,12 +113,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [admin@blauv.net](mailto:admin@blauv.net)
   - type: DividerSection
     styles:
       self:
