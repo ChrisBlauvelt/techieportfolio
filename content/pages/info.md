@@ -72,7 +72,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/union+logo+colors.png
-        altText: Logo one
+        altText: The Union Restaurant
         caption: Logo one
       - type: ImageBlock
         url: /images/logo2.svg
