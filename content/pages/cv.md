@@ -186,7 +186,7 @@ sections:
           software and hardware products. He never failed to deliver on anything
           asked of him.
         name: Joe Pritchard
-        title: CEO at Parks
+        title: 'Senior Support Engineer, 360 Smart Networks'
         elementId: ''
         styles:
           name:
