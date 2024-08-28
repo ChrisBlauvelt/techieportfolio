@@ -142,7 +142,7 @@ sections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
     title: Credentials + Certifications
     subtitle: ''
