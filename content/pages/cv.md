@@ -73,7 +73,7 @@ sections:
         url: 'https://www.redswitches.com/blog/lxc-vs-docker/'
       - type: Label
         label: Bash
-        url: ''
+        url: 'https://www.gnu.org/software/bash/'
       - type: Label
         label: 'Network Architecture '
         url: ''
