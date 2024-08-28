@@ -184,4 +184,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 ---
