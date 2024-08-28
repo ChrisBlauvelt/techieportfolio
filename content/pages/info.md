@@ -68,7 +68,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'Your Brand''s logo can be featured:'
+    subtitle: 'I''ve worked with these fantastic partners:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
