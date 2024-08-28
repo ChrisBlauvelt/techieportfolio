@@ -60,7 +60,8 @@ sections:
         url: ''
       - type: Label
         label: Microsoft Entra ID
-        url: ''
+        url: >-
+          https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id
       - type: Label
         label: Microsoft Azure
         url: 'https://azure.microsoft.com/en-us'
