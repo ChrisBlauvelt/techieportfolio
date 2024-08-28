@@ -99,6 +99,40 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
+    title: Credentials + Certifications
+    subtitle: ''
+    text: |+
+      **2012-2016 - Appalachian State University**
+
+      *   BA Philosophy 
+          *   Minor in English Literature
+
+          *   (no computers, crazy right?!)
+
+      **2024**
+
+      *   Microsoft 365 Certified: Fundamentals
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
     title: Previous Work Experience
     subtitle: Let's Dive Deep
     text: >
@@ -124,40 +158,6 @@ sections:
 
 
       ****
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-b
-    title: Credentials + Certifications
-    subtitle: ''
-    text: |+
-      **2012-2016 - Appalachian State University**
-
-      *   BA Philosophy 
-          *   Minor in English Literature
-
-          *   (no computers, crazy right?!)
-
-      **2024**
-
-      *   Microsoft 365 Certified: Fundamentals
-
     elementId: ''
     styles:
       self:
