@@ -185,7 +185,7 @@ sections:
           and he was not only knowledgeable but he was the SME for multiple
           software and hardware products. He never failed to deliver on anything
           asked of him.
-        name: John Doe
+        name: Joe Pritchard
         title: CEO at Parks
         elementId: ''
         styles:
