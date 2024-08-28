@@ -70,13 +70,13 @@ sections:
         url: 'https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx'
       - type: Label
         label: Containerization/Virtualization
-        url: ''
+        url: 'https://www.redswitches.com/blog/lxc-vs-docker/'
       - type: Label
         label: Bash
-        url: ''
+        url: 'https://www.gnu.org/software/bash/'
       - type: Label
         label: 'Network Architecture '
-        url: ''
+        url: 'https://youtu.be/dQw4w9WgXcQ?si=8ZA6uDvlPwhKVD0-'
       - type: Label
         label: Audio/Visual & Networking Installations
         url: ''
