@@ -77,7 +77,7 @@ sections:
         label: 'Network Architecture '
         url: ''
       - type: Label
-        label: Swift
+        label: 'Audio/Visual '
         url: ''
     colors: colors-f
     elementId: ''
