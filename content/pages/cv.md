@@ -63,7 +63,7 @@ sections:
         url: ''
       - type: Label
         label: Microsoft Azure
-        url: ''
+        url: 'https://azure.microsoft.com/en-us'
       - type: Label
         label: 'VMware ESXi '
         url: 'https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx'
