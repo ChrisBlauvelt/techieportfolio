@@ -185,4 +185,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
+socialImage: /images/Techie.svg
 ---
