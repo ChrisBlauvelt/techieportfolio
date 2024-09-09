@@ -51,6 +51,17 @@ sections:
       From homes to small businesses, The Techie Neighbor can assist you with
       all aspects of networking, security, hardware and software
       troubleshooting, and more!
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
 metaTags: []
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 ---
