@@ -62,5 +62,6 @@
         }
     },
     "defaultSocialImage": "/images/Techie.svg",
-    "defaultMetaTags": []
+    "defaultMetaTags": [],
+    "titleSuffix": "techieneighbor"
 }
