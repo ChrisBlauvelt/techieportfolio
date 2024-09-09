@@ -62,11 +62,5 @@
         }
     },
     "defaultSocialImage": "/images/Techie.svg",
-    "defaultMetaTags": [
-        {
-            "type": "MetaTag",
-            "property": "og:title",
-            "content": ""
-        }
-    ]
+    "defaultMetaTags": []
 }
