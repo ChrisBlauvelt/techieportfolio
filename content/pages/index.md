@@ -71,7 +71,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
