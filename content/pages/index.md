@@ -71,7 +71,33 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: ''
+        url: >-
+          <!-- Put this code anywhere in the body of your page where you want
+          the badge to show up. --><div itemscope
+          itemtype='http://schema.org/Person' class='fiverr-seller-widget'
+          style='display: inline-block;'>     <a itemprop='url'
+          href=https://www.fiverr.com/techieneighbor rel="nofollow"
+          target="_blank" style='display: inline-block;'>        <div
+          class='fiverr-seller-content'
+          id='fiverr-seller-widget-content-55e11ce9-851e-4003-b55b-485135be4e0c'
+          itemprop='contentURL' style='display: none;'></div>        <div
+          id='fiverr-widget-seller-data' style='display: none;'>            <div
+          itemprop='name' >techieneighbor</div>            <div itemscope
+          itemtype='http://schema.org/Organization'><span
+          itemprop='name'>Fiverr</span></div>            <div
+          itemprop='jobtitle'>Seller</div>            <div
+          itemprop='description'>Hello! I'm Chris - The TechieNeighbor. I have
+          worked for many business around the Metro-Atlanta area throughout my
+          career: from my last position at a large Managed Service Provider -
+          acting as the Internal IT and Systems Administrator for a wide variety
+          of systems. My background prior to IT was in the customer service and
+          hospitality fields, and I have a major in Philosophy from Appalachian
+          State University.I hope to be able to help solve whatever problems you
+          may need assistance with! </div>        </div>    </a></div><script
+          id='fiverr-seller-widget-script-55e11ce9-851e-4003-b55b-485135be4e0c'
+          src='https://widgets.fiverr.com/api/v1/seller/techieneighbor?widget_id=55e11ce9-851e-4003-b55b-485135be4e0c'
+          data-config='{"category_name":"Programming \u0026 Tech"}' async='true'
+          defer='true'></script>
         showIcon: true
         icon: arrowRight
         iconPosition: right
