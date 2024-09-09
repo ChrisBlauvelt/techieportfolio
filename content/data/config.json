@@ -60,5 +60,19 @@
             "caption": "TechieLogo",
             "elementId": ""
         }
-    }
+    },
+    "defaultSocialImage": "/images/Techie.svg",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": "TechieNeighbor"
+        },
+        {
+            "type": "MetaTag",
+            "property": "og:description",
+            "content": "Suwanee IT help computer repair website maintenance for small business"
+        }
+    ],
+    "titleSuffix": "techieneighbor"
 }
