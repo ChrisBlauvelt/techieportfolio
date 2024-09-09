@@ -60,5 +60,6 @@
             "caption": "TechieLogo",
             "elementId": ""
         }
-    }
+    },
+    "defaultSocialImage": "/images/Techie.svg"
 }
