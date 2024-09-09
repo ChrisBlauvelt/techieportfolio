@@ -68,7 +68,7 @@ sections:
       My services can be purchased and reserved through Fiverr!
     actions:
       - type: Button
-        label: Try it now
+        label: Book me!
         altText: ''
         url: 'https://www.fiverr.com/techieneighbor'
         showIcon: true
