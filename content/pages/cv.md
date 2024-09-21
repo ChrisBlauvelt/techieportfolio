@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'My Experience '
-    subtitle: 'A curriculum vitae, if you prefer'
+    subtitle: ''
     text: >+
       ## **Deployment & Project Engineer - 360 Smart Networks**
 
