@@ -128,7 +128,7 @@ sections:
           start to finish, the entire experience was seamless and professional.
           He was incredibly knowledgeable and attentive to my needs"
         name: Peggy Streich
-        title: Office Administrator for Sedgewick Restaurant Group
+        title: Office Administrator for Sedgwick Restaurant Group
         elementId: ''
         styles:
           name:
