@@ -7,33 +7,7 @@ sections:
     variant: variant-a
     title: 'My Experience '
     subtitle: 'A curriculum vitae, if you prefer'
-    text: >+
-      ## **Deployment & Project Engineer - 360 Smart Networks**
-
-
-      ### **April 2022 - August 2024**
-
-
-      I am grateful for the opportunity to have developed my technical expertise
-      at 360, where I built upon my foundation in understanding interconnected
-      systems. During my tenure, I gained extensive hands-on experience with a
-      wide range of technologies from various manufacturers, including hardware
-      and software solutions that operate on desktop and server operating
-      systems, as well as networking infrastructure.
-
-
-      I also had the opportunity to dive deep into Microsoft Office 365
-      administration, developing expertise in areas such as Azure Single Sign-On
-      (SSO) integrations, Microsoft Entra ID user management, and InTune policy
-      management. Additionally, I gained exposure to other key technologies,
-      including virtual firewalls, CRM/ERP software, and specialized solutions
-      tailored to law firms, such as AutoCAD, SolidWorks, BlueBeam, and other
-      architectural programs. This broad range of experience has equipped me
-      with a unique understanding of how different systems interact and can be
-      optimized for maximum efficiency.
-
-
-
+    text: "\nCHRISTOPHER BLAUVELT\n====================\n\nSuwanee, GA | 470.962.1059 | chris\\@blauv.net |\n[https://](https://cv.blauv.net/)techieneighbor.net/cv/\n\n## Professional Summary\n\nVersatile professional with a strong background in project\nmanagement, client relations, and technology integration. Adept at\ntranslating complex technical concepts for diverse audiences and\nimplementing efficient workflows. Seeking to leverage communication,\nproblem-solving, and organizational skills in a challenging business\nadministration, office management, or academic role.\n\n## Core Competencies\n\n*   Project Management\n\n*   Client Relationship Management \n\n*   *   Team Coordination *   Problem-Solving \t*   Attention to Detail \t*   Technology Integration \n\n# Professional Experience\n\n### Project Engineer, 360 Smart Networks\n\nNovember 2023 - August 2024\n\n*   Manage complex projects from inception to completion, ensuring timely delivery and client satisfaction\t\n\n*   Research and implement solutions for integrating on-premise applications into cloud environments \n\n*   Develop in-depth technical documentation and client resources, improving knowledge transfer and reducing support time \n\n*   Configure and deploy networking equipment from various vendors, enhancing client infrastructure \n\n*   Assist with on-boarding new clients, ensuring smooth transitions and positive first impressions \n\n*   Conduct impromptu troubleshooting of client networks, demonstrating adaptability and quick problem-solving skills \n    \t\n\n### Deployment Engineer, 360 Smart Networks\n\nMarch 2022 - November 2023\n\n\n\t\n\n### Warehouse Manager / Driver / Brand Ambassador /\nFoodService Sales Representitive, Lorenzo Provisions\n\nMarch 2017- December 2021\n\n\n\t\n\n### Shift Manager / Server\\&Trainer / Expo /\nBarback, The El Felix Restaurant (Currently named Superica)\n\nJuly 2016 – March 2017\n\n\n\t\n\n### Prep Cook / Line Cook, Foggy Rock Bar and Grill &\nTroy’s Diner\n\nDecember 2014 – May 2016\n\n\n\t\n\n### Grocery Stock & Food Service Associate,\nAppalachian State University\n\nMay 2013 – December 2014\n\n\n\t\n\n## Education\n\nBachelor of Philosophy, Appalachian State University (2012 - 2016)\n\n\n\t\n\n## Technical Skills\n\n\n\t\n\n## Professional Development\n\n\n\t\n\n## Additional Information\n\n\n\t\n\n\n\n\n\n\n\n\n"
     elementId: ''
     styles:
       self:
