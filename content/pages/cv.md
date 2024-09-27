@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Resume
+title: Experience
 sections:
   - type: TextSection
     colors: colors-f
@@ -154,13 +154,19 @@ sections:
         textAlign: center
 addTitleSuffix: true
 colors: colors-e
+metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
+socialImage: /images/Techie.svg
+metaTags:
+  - type: MetaTag
+    property: ''
+    content: >-
+      <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">View My
+      Resume</a>
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 80
-metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
-socialImage: /images/Techie.svg
+  opacity: 100
 ---
