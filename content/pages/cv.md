@@ -163,4 +163,8 @@ backgroundImage:
   opacity: 80
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 socialImage: /images/Techie.svg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
