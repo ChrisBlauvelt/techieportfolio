@@ -162,4 +162,11 @@ metaTags:
     content: >-
       <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">View My
       Resume</a>
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
