@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Resume
+title: Experience
 sections:
   - type: TextSection
     colors: colors-f
