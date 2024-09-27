@@ -46,16 +46,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /resume.pdf
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     text: >
       From homes to small businesses, The Techie Neighbor can assist you with
       all aspects of networking, security, hardware and software
