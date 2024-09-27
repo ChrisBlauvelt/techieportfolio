@@ -8,4 +8,20 @@ const nextConfig = {
     swcMinify: true
 };
 
-module.exports = nextConfig;
+module.exports = {
+    nextConfig,
+    async headers() {
+      return [
+        {
+          source: '/resume.pdf',
+          headers: [
+            {
+              key: 'Content-Disposition',
+              value: 'inline',
+            },
+          ],
+        },
+      ]
+    },
+  }
+
