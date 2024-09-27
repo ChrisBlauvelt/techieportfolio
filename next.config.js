@@ -9,7 +9,6 @@ const nextConfig = {
 };
 
 module.exports = {
-    nextConfig,
     async headers() {
       return [
         {
