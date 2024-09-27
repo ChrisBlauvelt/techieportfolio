@@ -166,5 +166,7 @@ socialImage: /images/Techie.svg
 metaTags:
   - type: MetaTag
     property: ''
-    content: ''
+    content: >-
+      <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">View My
+      Resume</a>
 ---
