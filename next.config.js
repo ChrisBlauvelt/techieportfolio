@@ -13,11 +13,11 @@ module.exports = {
     async headers() {
       return [
         {
-          source: '/resume.pdf',
+          source: '/resume',
           headers: [
             {
-              key: 'Content-Disposition',
-              value: 'inline',
+              key: 'Content-Security-Policy',
+              value: "frame-src 'self'; object-src 'self'",
             },
           ],
         },
