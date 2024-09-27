@@ -154,13 +154,6 @@ sections:
         textAlign: center
 addTitleSuffix: true
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 socialImage: /images/Techie.svg
 metaTags:
