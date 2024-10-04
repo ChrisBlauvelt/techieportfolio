@@ -148,7 +148,7 @@ sections:
           textAlign: left
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: form
     styles:
       self:
         height: auto
