@@ -114,7 +114,7 @@ sections:
       I can't wait to talk shop!
     form:
       type: FormBlock
-      title: Contact
+      title: contact
       fields:
         - type: TextFormControl
           name: name
