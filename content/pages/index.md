@@ -68,7 +68,7 @@ sections:
       My services can be purchased and reserved through the following sites:
     actions:
       - type: Button
-        label: Book me!
+        label: Fiverr
         altText: ''
         url: 'https://www.fiverr.com/techieneighbor'
         showIcon: true
