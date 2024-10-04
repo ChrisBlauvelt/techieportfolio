@@ -61,7 +61,7 @@ sections:
           - pt-4
           - pb-4
         justifyContent: center
-        borderWidth: 1
+        borderWidth: 2
   - type: CtaSection
     title: Let's do this
     text: |
