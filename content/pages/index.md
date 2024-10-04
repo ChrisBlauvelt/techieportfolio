@@ -81,7 +81,7 @@ sections:
         altText: ''
         url: >-
           https://www.thumbtack.com/ga/suwanee/router-setup-install-and-repair/techieneighbor-llc/service/527544422781173783?utm_medium=web&utm_source=txt&surface=sp&referrer_pk=527544422486859801
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
