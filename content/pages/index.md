@@ -65,7 +65,7 @@ sections:
   - type: CtaSection
     title: Let's do this
     text: |
-      My services can be purchased and reserved through Fiverr!
+      My services can be purchased and reserved through the following sites:
     actions:
       - type: Button
         label: Book me!
