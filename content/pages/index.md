@@ -114,18 +114,18 @@ sections:
       I can't wait to talk shop!
     form:
       type: FormBlock
-      title: Contact
+      title: contact
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: name
           hideLabel: true
           placeholder: Your name
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
           name: email
-          label: Name
+          label: name
           hideLabel: true
           placeholder: Your email
           width: 1/2
@@ -137,11 +137,6 @@ sections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-          isRequired: 'false'
       submitLabel: Send Message
       elementId: contact
       styles:
