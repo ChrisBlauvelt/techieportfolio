@@ -72,7 +72,7 @@ sections:
         altText: ''
         url: 'https://www.fiverr.com/techieneighbor'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
