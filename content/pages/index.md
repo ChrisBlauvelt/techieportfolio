@@ -110,7 +110,8 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     title: Contact Me
-    text: I'm look forward to hearing from you.
+    text: |
+      I can't wait to talk shop!
     form:
       type: FormBlock
       title: Contact
