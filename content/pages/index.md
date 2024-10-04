@@ -142,7 +142,7 @@ sections:
           width: full
           isRequired: 'false'
       submitLabel: Send Message
-      elementId: contact-form
+      elementId: contact
       styles:
         submitLabel:
           textAlign: left
