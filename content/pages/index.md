@@ -58,7 +58,7 @@ sections:
       self:
         width: full
         padding:
-          - pt-36
+          - pt-9
           - pb-9
         justifyContent: center
         borderWidth: 1
