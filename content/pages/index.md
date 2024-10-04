@@ -59,7 +59,7 @@ sections:
         width: full
         padding:
           - pt-4
-          - pb-9
+          - pb-4
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
