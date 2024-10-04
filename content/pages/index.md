@@ -65,14 +65,24 @@ sections:
   - type: CtaSection
     title: Let's do this
     text: |
-      My services can be purchased and reserved through Fiverr!
+      My services can be purchased and reserved through the following sites:
     actions:
       - type: Button
-        label: Book me!
+        label: Fiverr
         altText: ''
         url: 'https://www.fiverr.com/techieneighbor'
         showIcon: true
-        icon: arrowRight
+        icon: cart
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Thumbtack
+        altText: ''
+        url: >-
+          https://www.thumbtack.com/ga/suwanee/router-setup-install-and-repair/techieneighbor-llc/service/527544422781173783?utm_medium=web&utm_source=txt&surface=sp&referrer_pk=527544422486859801
+        showIcon: true
+        icon: cart
         iconPosition: right
         style: primary
         elementId: ''
