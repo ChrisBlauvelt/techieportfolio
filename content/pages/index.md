@@ -108,59 +108,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: ContactSection
-    title: Contact Me
-    text: |
-      I can't wait to talk shop!
-    form:
-      type: FormBlock
-      title: contact
-      fields:
-        - type: TextFormControl
-          name: name
-          label: name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
-        - type: EmailFormControl
-          name: email
-          label: name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Tell me about your project
-          hideLabel: true
-          placeholder: Tell me about your project
-          width: full
-          isRequired: true
-      submitLabel: Send Message
-      elementId: contact
-      styles:
-        submitLabel:
-          textAlign: left
-    colors: colors-f
-    backgroundSize: full
-    elementId: form
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
 metaTags: []
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 ---
