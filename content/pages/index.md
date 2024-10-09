@@ -111,3 +111,21 @@ sections:
 metaTags: []
 metaDescription: Suwanee IT Small Business Computer Repair Troubleshooting
 ---
+
+import AstroCardWrapper from '../src/components/AstroCardWrapper';
+
+# Welcome to My Site
+
+Here's my profile card:
+
+<AstroCardWrapper
+  name="Chris Blauvelt"
+  position="SysAdmin | IT Wizard | Computer Geek"
+  aboutMe="Greetings!, I'm Chris, I hope that this small intro can help to get you acquainted with me and my small busines TechieNeighbor LLC, where I am happy to serve metro-Atlanta's homeowners and entrepeneurs! I can assist with nearly anything technology related, from hypervisors on servers to installing security cameras. 
+\n\n
+Anything I do is backed by a "no-fix no-fee" guarantee, and I offer remote support packages and computer training classes as well!"
+  linkedin="https://www.linkedin.com/in/christopherblauveltjr"
+  github="https://github.com/chrisblauvelt"
+  cvLink="/files/resume-cv.pdf"
+  profileImage="/images/profile2.webp"
+/>
