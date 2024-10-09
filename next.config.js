@@ -8,6 +8,12 @@ const nextConfig = {
     swcMinify: true
 };
 
+const nextConfig = {
+  transpilePackages: ['react-pdf'],
+};
+
+module.exports = nextConfig;
+
 module.exports = {
     async headers() {
       return [
