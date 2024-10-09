@@ -27,7 +27,7 @@
                 "type": "Link",
                 "label": "Resume",
                 "altText": "CV",
-                "url": "/resume.pdf",
+                "url": "/resume.html",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
