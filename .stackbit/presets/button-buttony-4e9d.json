@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "buttony",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "primary"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Fiverr",
+                "altText": "",
+                "url": "https://www.fiverr.com/techieneighbor",
+                "showIcon": true,
+                "icon": "cart",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-buttony-4e9d.png"
+        }
+    ]
+}
