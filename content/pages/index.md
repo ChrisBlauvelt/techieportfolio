@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hey, I'm your techie neighbor, and i am ready to work to make your digital
-      life easier and more secure.
+      Hi! I'm chris - your techie neighbor, and i am ready to work to make your
+      digital life easier and more secure.
     subtitle: >-
       I am an accomplished and hardworking IT professional who is also
       undertaking the task of assisting my neighbors with their technical needs,
